@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/googleapis/java-contact-center-insights/compare/v1.0.0...v1.0.1) (2021-07-28)
+
+
+### Bug Fixes
+
+* owlbot post-processor should generate README ([#1154](https://www.github.com/googleapis/java-contact-center-insights/issues/1154)) ([#29](https://www.github.com/googleapis/java-contact-center-insights/issues/29)) ([2895d64](https://www.github.com/googleapis/java-contact-center-insights/commit/2895d645305381c904d441e2c275a4e2b8e8f08b)), closes [#1146](https://www.github.com/googleapis/java-contact-center-insights/issues/1146) [#1147](https://www.github.com/googleapis/java-contact-center-insights/issues/1147)
+
 ## [1.0.0](https://www.github.com/googleapis/java-contact-center-insights/compare/v0.1.0...v1.0.0) (2021-07-12)
 
 
